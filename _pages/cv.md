@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Physics, The University of Texas at San Antonio, (2025 - 2030) (expected) <br>
+* **Ph.D.** in Physics, The University of Texas at San Antonio, (2025 - 2030) (expected) <br>
   Advisor: Dr. Thayne Currie
-* B.S. in Astronomy, Yunnan University, (2018 - 2022) <br>
+* **B.S.** in Astronomy, Yunnan University, (2018 - 2022) <br>
   Advisor: Dr. Zhongxiang Wang and Dr. Yang Huang
 
 Work experience
