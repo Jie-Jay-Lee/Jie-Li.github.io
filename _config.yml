@@ -23,7 +23,7 @@ repository               : "Jie-Jay-Lee/Jie-Li.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Jie_life.JPG"
+  avatar           : "profile.png"
   name             : "Jie Li (Jay Lee, 李杰)"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student in physics, exoplanet, direct imaging, AGN"
