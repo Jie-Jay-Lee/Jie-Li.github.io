@@ -25,6 +25,11 @@ Teaching experience
   * The University of Texas at San Antonio
   * Graduate Teaching Assistant
   * Supervisor: Christopher Dunn
+
+* Fall 2021: Introduction to High Energy Astrophysics
+  * Yunnan University
+  * Teaching Assistant
+  * Supervisor: Zhongxiang Wang
     
 Skills
 ======
