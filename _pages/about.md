@@ -11,8 +11,8 @@ My name is Jie Li (pronounced “Jay Lee”; Chinese: 李杰). I am currently a 
 
 Please explore this site to learn more about my research and publications. Also feel free to reach out via the contact links.
 
-<br>
 <p align="center">
   <img src="/images/Jie_life.JPG" alt="Observing at UTSA" width="500">
+  <br>
+  <em>Image credit: NASA</em>
 </p>
-<br>
