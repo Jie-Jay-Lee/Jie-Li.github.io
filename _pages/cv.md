@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **Ph.D.** in Physics, The University of Texas at San Antonio, (2025 - current) <br>
-  **Advisor:** Dr. Thayne Currie <br>
+  **Advisor:** Dr. Thayne Currie. <br>
   **Research Areas:** Exoplanet, Direct Imaging <br>
   
 * **B.S.** in Astronomy, Yunnan University, (2018 - 2022) <br>
