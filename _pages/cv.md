@@ -45,12 +45,10 @@ Teaching experience
     
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Language:** Mandarin, English
+* **Astronomical tool:** Linux, LaTeX, IRAF, HEASoft, CIAO, Fermi, CLOUDY, TOPCAT, DS9, orvara
+* **Programming Language:** Python, SQL, Docker
+
 
 Publications
 ======
