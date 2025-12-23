@@ -25,7 +25,7 @@ Research experience
   
   **Advisor:** Dr. Zhongxiang Wang
   
-  **Collaborator:** Mr. Litao Zhu
+  **Collaborators:** Mr. Litao Zhu, Ms. Sisi Sun, Mr. Dong Zheng et al.
   
   * Identified Fermi-LAT blazars counterparts based on the correlation of gamma and optical light curves.
   * Discovered three AGNs with optical periodic modulation based on ZTF and CRTS light curves, suggesting merging supermassive black hole binaries. One of the AGNs even showed potential periodic modulation in X-rays.
@@ -47,7 +47,7 @@ Research experience
   
   **Advisor:** Dr. Maomao Ge
 
-  **Collaborators:** Ms. Zhengya Gu, Yunao Xiao, Siyuan Want et al.
+  **Collaborators:** Ms. Zhengya Gu, Mr. Yunao Xiao, Mr. Siyuan Want et al.
   
   * Tested SiPM linearity and assembled the LHAASO-WFCTA camera.
   * Proposed the potential impact of skylight background on SiPM linearity.
