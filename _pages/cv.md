@@ -23,9 +23,9 @@ Research experience
 ======
 * **Project:** Understanding Long-Term Large Flux Variations Seen in AGNs (2021 - 2025)
   
-  **Advisor:** Zhongxiang Wang
+  **Advisor:** Dr. Zhongxiang Wang
   
-  **Collaborator:** Litao Zhu
+  **Collaborator:** Mr. Litao Zhu
   
   * Identified Fermi-LAT blazars counterparts based on the correlation of gamma and optical light curves.
   * Discovered three AGNs with optical periodic modulation based on ZTF and CRTS light curves, suggesting merging supermassive black hole binaries. One of the AGNs even showed potential periodic modulation in X-rays.
@@ -35,9 +35,17 @@ Research experience
 
 * **Project:** Systematic Searching for Dual AGNs (2020 - 2022)
   
-  **Advisor:** Yang Huang
+  **Advisor:** Dr. Yang Huang
   
-  **Collaborator:** Yangwei Zhang
+  **Collaborator:** Dr. Yangwei Zhang
+  
+  * Searched for optical dual-core objects accompanied by radio or X-ray radiation as dual AGN candidates.
+  * Applied the Lijiang 2.4m telescope to obtain two-dimensional spectra of dual AGN candidates.
+  * Identified three new dual AGNs.
+ 
+* **Project:** Development of LHAASO-WFCTA Camera (2020 - 2022)
+  
+  **Advisor:** Dr. Maomao Ge
   
   * Searched for optical dual-core objects accompanied by radio or X-ray radiation as dual AGN candidates.
   * Applied the Lijiang 2.4m telescope to obtain two-dimensional spectra of dual AGN candidates.
