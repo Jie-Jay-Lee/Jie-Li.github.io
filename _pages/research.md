@@ -84,7 +84,7 @@ We report the findings of four changing look (CL) Active Galactic Nuclei (AGN). 
 
 <p align="center">
   <img src="https://Jie-Jay-Lee.github.io/website/images/research_4.png"
-       style="width:100%; max-width:800px;">
+       style="width:50%; max-width:800px;">
 </p>
 
 <p align="center">
@@ -92,7 +92,7 @@ We report the findings of four changing look (CL) Active Galactic Nuclei (AGN). 
     Image credit:
     <a href="https://ui.adsabs.harvard.edu/abs/2024MNRAS.530.3538Z/abstract"
        target="_blank" rel="noopener">
-      Zhu et al. (2025)
+      Zhu et al. (2024)
     </a>.
   </small>
 </p>
