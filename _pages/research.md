@@ -59,16 +59,24 @@ We report a candidate tidal disruption event (TDE) found in the Zwicky Transient
 <p align="center">
   <img src="https://Jie-Jay-Lee.github.io/website/images/research_3.png"
        style="width:100%; max-width:800px;">
-  <br>
+</p>
+
+<p align="center">
   <small>
-    Figure from 
-    <a href="https://ui.adsabs.harvard.edu/abs/2023RAA....23b5012L/abstract" target="_blank">
+    Image credit:
+    <a href="https://ui.adsabs.harvard.edu/abs/2023RAA....23b5012L/abstract"
+       target="_blank" rel="noopener">
       Li et al. (2023b)
     </a>.
-    </small>
+  </small>
 </p>
-    Figure 3. Multi-band light curves and spectroscopic monitoring of AT2021acak during the tidal disruption event.
-  
+
+<p align="center">
+  <small>
+    <strong>Figure 3.</strong>
+    Multi-band light curves and spectroscopic monitoring of AT2021acak during the tidal disruption event.
+  </small>
+</p>
 
 Four Changing-Look Active Galactic Nuclei Found From Optical Variations
 ======
