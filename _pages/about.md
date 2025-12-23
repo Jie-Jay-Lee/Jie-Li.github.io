@@ -14,10 +14,5 @@ Please explore this site to learn more about my research and publications. Also 
 <p align="center">
   <img src="https://Jie-Jay-Lee.github.io/website/images/exo_1.jpg" alt="NASA image" style="width:100%; max-width:800px;">
   <br>
-</p>
-
-<p align="center">
-  <img src="https://Jie-Jay-Lee.github.io/website/images/exo_2.jpg" alt="NASA image" style="width:100%; max-width:800px;">
-  <br>
   <small>Image credit: NASA</small>
 </p>
