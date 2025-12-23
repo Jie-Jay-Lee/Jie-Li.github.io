@@ -33,10 +33,15 @@ Research experience
   * Identified four changing-look AGNs. Several of them were previously classified as type 2 AGNs in SDSS spectra but exhibited bluer-when-brighter behavior in recent light curves, which is the characteristic of type 1 AGNs.
   * Proposed a new method to identify changing-look AGNs by searching for type 2 AGNs in SDSS spectra that exhibit bluer-when-brighter behavior in recent light curves (Color-magnitude Pattern). Follow-up observations demonstrated its high efficiency.
 
-* **Fall 2021:** Introduction to High Energy Astrophysics
-  * Yunnan University
-  * Teaching Assistant
-  * Supervisor: Dr. Zhongxiang Wang
+* **Project:** Systematic Searching for Dual AGNs (2020 - 2022)
+  
+  **Advisor:** Yang Huang
+  
+  **Collaborator:** Yangwei Zhang
+  
+  * Searched for optical dual-core objects accompanied by radio or X-ray radiation as dual AGN candidates.
+  * Applied the Lijiang 2.4m telescope to obtain two-dimensional spectra of dual AGN candidates.
+  * Identified three new dual AGNs.
 
 Teaching experience
 ======
