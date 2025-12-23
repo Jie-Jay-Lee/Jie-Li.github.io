@@ -31,8 +31,8 @@ We report a candidate tidal disruption event (TDE) found in the Zwicky Transient
        style="width:100%; max-width:800px;">
   <br>
   <small>
-    Figure 1. Multi-band light curves of J2131−1127, clearly showing a periodic modulation with a period of approximately 1500 days. Image from Li et al. (2023).
-    Image adapted from 
+    Figure 1. Multi-band light curves of J2131−1127, clearly showing a periodic modulation with a period of approximately 1500 days. 
+    Image from 
     <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.2928L/abstract" target="_blank">
       Li et al. (2023)
     </a>.
