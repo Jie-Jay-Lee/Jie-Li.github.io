@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Note
-======
 This is my full [curriculum vitae](https://Jie-Jay-Lee.github.io/website/CV_12_22_2025.pdf) (updated 12/22/2025). 
 
 Education
