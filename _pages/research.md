@@ -27,7 +27,7 @@ We report on the case of optical periodic modulation discovered in two Active Ga
     Figure 1. Multi-band light curves of J2131−1127, clearly showing a periodic modulation with a period of approximately 1500 days, indicating a potential supermassive black hole binary. 
     Image from 
     <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.2928L/abstract" target="_blank">
-      Li et al. (2023)
+      Li et al. (2023a)
     </a>.
   </small>
 </p>
@@ -37,14 +37,14 @@ AT2021acak: a Candidate Tidal Disruption Event Found in the Zwicky Transient Fac
 We report a candidate tidal disruption event (TDE) found in the Zwicky Transient Facility survey data. This candidate, with its transient name AT2021acak, showed brightness increases of ~1 mag around MJD 59500 and subsequent power-law-like brightness declines. We have conducted multiple optical spectroscopic observations with the 2.4 m Lijiang telescope and one observation at X-ray and ultraviolet (UV) bands with the Neil Gehrels Swift Observatory (Swift). The optical spectra of the source show broad H and He emission lines and Fe emission features. Possible 0.3-2 keV X-ray and bright UV emission of the source was detected. We analyze the declines of the optical light curves, the emission features of the optical spectra, and the constructed broad-band UV and optical spectra. The properties derived from the analyses are consistent with those of reported (candidate) TDEs, and in particular very similar to those of ASASSN-18jd. The identification is complicated by the host being likely an AGN, and thus further observations of the event and quiescent host are required in order to have a clear understanding of the nature of this transient event.
 
 <p align="center">
-  <img src="https://Jie-Jay-Lee.github.io/website/images/research_2.png"
+  <img src="https://Jie-Jay-Lee.github.io/website/images/research_3.png"
        style="width:100%; max-width:800px;">
   <br>
   <small>
-    Figure 1. Multi-band light curves of J2131−1127, clearly showing a periodic modulation with a period of approximately 1500 days. 
+    Figure 2. Multi-band light curves and spectroscopic monitoring of AT2021acak during the tidal disruption event.
     Image from 
-    <a href="https://ui.adsabs.harvard.edu/abs/2023MNRAS.522.2928L/abstract" target="_blank">
-      Li et al. (2023)
+    <a href="https://ui.adsabs.harvard.edu/abs/2023RAA....23b5012L/abstract" target="_blank">
+      Li et al. (2023b)
     </a>.
   </small>
 </p>
