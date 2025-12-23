@@ -19,8 +19,16 @@ Jointly analyzing radial-velocity data drawn from multiple instruments and preci
        style="width:40%; max-width:800px;">
   <br>
   <small>
-    <strong>Figure 1.</strong>
+    <strong>Figure X.</strong>
     Joint modeling of astrometry and radial-velocity data for one candidate companion, showing the best-fit orbit and predicted future positions on the sky.
+    Image credit: Li et al. (2023).
+  </small>
+</p>
+    Image credit:
+    <a href="https://ui.adsabs.harvard.edu/abs/2021AJ....162..186B/abstract"
+       target="_blank" rel="noopener">
+      Brandt et al. (2021)
+    </a>.
   </small>
 </p>
 
