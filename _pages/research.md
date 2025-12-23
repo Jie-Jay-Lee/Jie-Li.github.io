@@ -32,14 +32,24 @@ Jointly analyzing radial-velocity data drawn from multiple instruments and preci
   </small>
 </p>
 
+
+
+
 <p align="center">
   <img src="https://jie-jay-lee.github.io/website/images/research_hgca.png"
        style="width:40%; max-width:800px;">
-  <br>
-  <small style="display:block; text-align:center;">
+</p>
+
+<p align="center">
+  <small>
     <strong>Figure X.</strong>
     Illustration of astrometric accelerations identified using the Hipparcos–Gaia
     Catalogue of Accelerations.
+  </small>
+</p>
+
+<p align="center">
+  <small>
     Image credit:
     <a href="https://ui.adsabs.harvard.edu/abs/2021AJ....162..186B/abstract"
        target="_blank" rel="noopener">
