@@ -91,4 +91,4 @@ Publications
 
 Note
 ======
-This is my full [curriculum vitae](https://subarutelescope.org/staff/currie/) (updated 12/22/2025). 
+This is my full [curriculum vitae](https://Jie-Jay-Lee.github.io/website/CV_12_22_2025.pdf) (updated 12/22/2025). 
