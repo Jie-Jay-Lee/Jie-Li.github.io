@@ -105,8 +105,11 @@ Development of LHAASO-WFCTA Camera
 <p align="center">
   <img src="https://Jie-Jay-Lee.github.io/website/images/research_5.png"
        style="width:100%; max-width:800px;">
-  <br>
-  <small>
 </p>
-Figure 5. Group photo of the final "LHAASO-WFCTA Camera" after assembly, now successfully operating in Daocheng, Garzê Tibetan Autonomous Prefecture, Sichuan, China.
 
+<p align="center">
+  <small>
+    <strong>Figure 5.</strong>
+    Group photo of the final "LHAASO-WFCTA Camera" after assembly, now successfully operating in Daocheng, Garzê Tibetan Autonomous Prefecture, Sichuan, China.
+  </small>
+</p>
