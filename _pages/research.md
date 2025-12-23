@@ -73,5 +73,13 @@ We report the findings of four changing look (CL) Active Galactic Nuclei (AGN). 
 
 Development of LHAASO-WFCTA Camera
 ======
+
+<p align="center">
+  <img src="https://Jie-Jay-Lee.github.io/website/images/research_5.png"
+       style="width:100%; max-width:800px;">
+  <br>
+  <small>
+</p>
+    Figure 3. Multi-band light curves and spectroscopic monitoring of AT2021acak during the tidal disruption event.
 Figure 5. Group photo of the final "LHAASO-WFCTA Camera" after assembly, now successfully operating in Daocheng, Garzê Tibetan Autonomous Prefecture, Sichuan, China.
 
