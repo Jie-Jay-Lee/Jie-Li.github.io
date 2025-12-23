@@ -19,8 +19,11 @@ Jointly analyzing radial-velocity data drawn from multiple instruments and preci
        style="width:40%; max-width:800px;">
   <br>
   <small>
+    <strong>Figure 1.</strong>
+    Joint modeling of astrometry and radial-velocity data for one candidate companion,
+    showing the best-fit orbit and predicted future positions on the sky.
+  </small>
 </p>
-    Figure 1. Joint modeling of astrometry and radial-velocity data for one candidate companion, showing the best-fit orbit and predicted future positions on the sky.
 
 Three cases of optical periodic modulation in Active Galactic Nuclei
 ======
