@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+Note
+======
+This is my full [curriculum vitae](https://Jie-Jay-Lee.github.io/website/CV_12_22_2025.pdf) (updated 12/22/2025). 
+
 Education
 ======
 * **Ph.D.** in Physics, The University of Texas at San Antonio, (2025 - current) <br>
@@ -88,7 +92,3 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-Note
-======
-This is my full [curriculum vitae](https://Jie-Jay-Lee.github.io/website/CV_12_22_2025.pdf) (updated 12/22/2025). 
