@@ -70,5 +70,8 @@ We report the findings of four changing look (CL) Active Galactic Nuclei (AGN). 
       Zhu et al. (2025)
     </a>
     demonstrate the high efficiency of this method.
-    
+
+Development of LHAASO-WFCTA Camera
+======
+Figure 5. Group photo of the final "LHAASO-WFCTA Camera" after assembly, now successfully operating in Daocheng, Garzê Tibetan Autonomous Prefecture, Sichuan, China.
 
