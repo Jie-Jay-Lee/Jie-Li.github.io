@@ -114,7 +114,7 @@ Development of LHAASO-WFCTA Camera
 I contributed to the development of the camera system for the Wide Field-of-view Cherenkov Telescope Array of the Large High Altitude Air Shower Observatory (LHAASO-WFCTA). My work included testing silicon photomultiplier (SiPM) linearity, assembling the camera system, and investigating the impact of skylight background on detector performance.
 
 <p align="center">
-  <img src="https://Jie-Li-Astro.github.io/website/images/research_5.png"
+  <img src="https://Jie-Li-Astro.github.io/website/images/research_6.png"
        style="width:100%; max-width:800px;">
 </p>
 
